@@ -1,3 +1,3 @@
-document.getElementById("btnDaftar").addEventListener("click", function() {
-  alert("Silakan hubungi admin untuk informasi pendaftaran.");
-});
+function daftarSekarang() {
+  window.open("https://wa.me/6282337600472", "_blank");
+}
